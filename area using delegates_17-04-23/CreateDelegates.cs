@@ -6,18 +6,23 @@ using System.Threading.Tasks;
 
 namespace area_using_delegates_17_04_23
 {
-    public delegate void rectangle(double x, double y);
-    public delegate void triangle(double x, double y);
+    public delegate void rectangle(double x, double y, string yellow);
+    public delegate void triangle(double x, double y, string blue);
+    public delegate void square(double x, double y, string red);
     internal class CreateDelegates
     {
-        public double RectangleArea(double l, double b)
+        public double RectangleArea(double l, double b, string yellow)
         {
             return l * b;
         }
 
-        public double TriangleArea(double l, double b)
+        public double TriangleArea(double l, double b, string blue)
         {
             return l * b * .5;
+        }
+        public double squareArea(double l, double b, string red)
+        {
+            return l * b;
         }
     }
     
