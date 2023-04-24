@@ -24,10 +24,17 @@
                 Console.WriteLine($"area of square is {calculate} and the color is {red}");
             });
 
-            double l = 12, b = 3;
+            circle c = new circle(delegate (double r, double p, string Blue)
+            {
+                Console.WriteLine(p * (r * r));
+                Console.WriteLine(Blue);
+            });
+
+            double l = 12, b = 3, radius = 7, p = 3.14; 
             r(l, b, "yellow");
             t(l, b, "black");
             s(l, b, "pink");
+            c(radius, p, "Blue");
 
             Console.WriteLine("changed");
             Console.ReadKey();

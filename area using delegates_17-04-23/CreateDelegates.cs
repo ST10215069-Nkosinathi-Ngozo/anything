@@ -9,6 +9,7 @@ namespace area_using_delegates_17_04_23
     public delegate void rectangle(double x, double y, string yellow);
     public delegate void triangle(double x, double y, string blue);
     public delegate void square(double x, double y, string red);
+    public delegate void circle(double x, double y, string Blue)
     internal class CreateDelegates
     {
         public double RectangleArea(double l, double b, string yellow)
@@ -23,6 +24,12 @@ namespace area_using_delegates_17_04_23
         public double squareArea(double l, double b, string red)
         {
             return l * b;
+        }
+
+        public double CircleArea(double radius, double p, string Blue)
+        {
+            return p * (radius * radius);
+
         }
     }
     

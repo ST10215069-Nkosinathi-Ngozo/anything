@@ -28,3 +28,11 @@ C:\Users\Robert\Source\Repos\anything\area using delegates_17-04-23\obj\Debug\ne
 C:\Users\Robert\Source\Repos\anything\area using delegates_17-04-23\obj\Debug\net6.0\area using delegates_17-04-23.pdb
 C:\Users\Robert\Source\Repos\anything\area using delegates_17-04-23\obj\Debug\net6.0\area using delegates_17-04-23.genruntimeconfig.cache
 C:\Users\Robert\Source\Repos\anything\area using delegates_17-04-23\obj\Debug\net6.0\ref\area using delegates_17-04-23.dll
+C:\Users\thato\Source\Repos\ST10215069-Nkosinathi-Ngozo\anything\area using delegates_17-04-23\obj\Debug\net6.0\area using delegates_17-04-23.csproj.AssemblyReference.cache
+C:\Users\thato\Source\Repos\ST10215069-Nkosinathi-Ngozo\anything\area using delegates_17-04-23\obj\Debug\net6.0\area using delegates_17-04-23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thato\Source\Repos\ST10215069-Nkosinathi-Ngozo\anything\area using delegates_17-04-23\obj\Debug\net6.0\area using delegates_17-04-23.AssemblyInfoInputs.cache
+C:\Users\thato\Source\Repos\ST10215069-Nkosinathi-Ngozo\anything\area using delegates_17-04-23\obj\Debug\net6.0\area using delegates_17-04-23.AssemblyInfo.cs
+C:\Users\thato\Source\Repos\ST10215069-Nkosinathi-Ngozo\anything\area using delegates_17-04-23\obj\Debug\net6.0\area using delegates_17-04-23.csproj.CoreCompileInputs.cache
+C:\Users\thato\Source\Repos\ST10215069-Nkosinathi-Ngozo\anything\area using delegates_17-04-23\obj\Debug\net6.0\area using delegates_17-04-23.dll
+C:\Users\thato\Source\Repos\ST10215069-Nkosinathi-Ngozo\anything\area using delegates_17-04-23\obj\Debug\net6.0\refint\area using delegates_17-04-23.dll
+C:\Users\thato\Source\Repos\ST10215069-Nkosinathi-Ngozo\anything\area using delegates_17-04-23\obj\Debug\net6.0\area using delegates_17-04-23.pdb
