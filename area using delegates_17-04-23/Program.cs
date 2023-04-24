@@ -28,8 +28,8 @@
             r(l, b, "yellow");
             t(l, b, "black");
             s(l, b, "pink");
-            
 
+            Console.WriteLine("changed");
             Console.ReadKey();
         }
     }
