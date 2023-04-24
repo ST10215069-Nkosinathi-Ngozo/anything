@@ -36,7 +36,6 @@
             s(l, b, "pink");
             c(radius, p, "Blue");
 
-            Console.WriteLine("changed");
             Console.ReadKey();
         }
     }
